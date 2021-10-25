@@ -1,3 +1,5 @@
 unix
 bash
 git
+HTML
+CSS
