@@ -1,6 +1,5 @@
 unix
 bash
-git
 trybe-skills-updates
 javascript
 logica de programacao
