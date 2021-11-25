@@ -1,8 +1,0 @@
-unix
-bash
-trybe-skills-updates
-javascript
-logica de programacao
-HTML
-CSS
-
