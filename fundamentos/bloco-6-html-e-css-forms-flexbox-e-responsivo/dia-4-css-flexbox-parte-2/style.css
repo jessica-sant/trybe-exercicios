@@ -15,6 +15,7 @@ body {
 
 }
 
+
 .logo-container {
   display: flex;
   justify-content: center;
@@ -24,12 +25,15 @@ body {
 .menu-container {
   display: flex;
   width: 500px;
+  order: 1;
+  flex-grow: 1;
 }
 
 .menu-container ul {
   display: flex;
   justify-content: space-around;
   width: 100%;
+  align-self: center;
 }
 
 .menu-container li {
